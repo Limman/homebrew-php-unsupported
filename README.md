@@ -1,5 +1,4 @@
-# homebrew-php-unsupported
-Unsupported PHP versions for homebrew:
+# Hombrew tap for unsupported PHP versions
 
 - PHP 5.6.40
 - PHP 7.0.33
